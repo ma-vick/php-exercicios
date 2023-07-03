@@ -1,0 +1,3 @@
+hello world!
+my name is Vick, and I'm 17 years old.
+I'm learning PHP and hating it.
